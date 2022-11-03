@@ -1,0 +1,4 @@
+com\facebook\pom\BasePage.class
+com\facebook\scripts\VerifyRegisterPage.class
+com\facebook\scripts\BaseTest.class
+com\facebook\pom\RegisterPage.class
